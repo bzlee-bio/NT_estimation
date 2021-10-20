@@ -1,0 +1,4 @@
+pandas>=1.1.2
+tensorflow>=2.0.0
+biopython>=1.19.2
+numpy>=1.17.0
