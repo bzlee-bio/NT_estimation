@@ -52,3 +52,4 @@ Probability with >=0.5 predicts as modulator peptides for respective ion channel
 
 
 ## Citation
+Lee, Byungjo, Min K. Shin, In-Wook Hwang, Junghyun Jung, Yu J. Shim, Go W. Kim, Seung T. Kim, Wonhee Jang, and Jung-Suk Sung. 2021. "A Deep Learning Approach with Data Augmentation to Predict Novel Spider Neurotoxic Peptides" International Journal of Molecular Sciences 22, no. 22: 12291. https://doi.org/10.3390/ijms222212291
