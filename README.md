@@ -47,7 +47,7 @@ Output file contains information about probabilities of four respective ion-chan
 Probability with >=0.5 predicts as modulator peptides for respective ion channels.
 
 ## Running a data augmentation tool
-`python peptide_augmentation --fasta <input_fasta_file.fasta> --cpu <max_cpu_usage> --eval <E-value cutoff>`
+`python peptide_augmentation.py --fasta <input_fasta_file.fasta> --cpu <max_cpu_usage> --eval <E-value cutoff>`
 
 
 
